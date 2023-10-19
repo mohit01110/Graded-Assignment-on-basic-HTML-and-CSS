@@ -1,0 +1,40 @@
+.jan-table{
+    background-color:#f2f1e1;
+    border: 1px transparent;
+    
+}
+#jan-name{
+    color: rgb(100, 163, 77);
+    padding-bottom: 30px;
+    text-align: left;
+}
+
+.jan-table th{
+    color: rgb(100, 163, 77);
+    font-size: 12px;
+    font-family: georgia;
+    border: 1px transparent black;
+
+}
+
+#big-jan{
+    color: rgb(100, 163, 77);
+    font-size: 220px;
+    font-family: georgia;
+    transform: rotate(-90deg);
+    padding-bottom: 300px;
+    
+}
+.jan-table td{
+    text-align: left;
+    border: 1px transparent black;
+    color: #388c65;
+}
+
+.blank-space{
+    height: 40px;
+}
+.weeks-align{
+   text-align:left;    
+}
+
